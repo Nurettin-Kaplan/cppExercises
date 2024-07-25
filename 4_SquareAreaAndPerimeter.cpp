@@ -11,8 +11,8 @@ int main(void){
 	area = side * side;	
 	perimeter = side * 4;
 	
-	cout << "Area: " << area << endl;
-	cout << "Perimeter: " << perimeter << endl;
+	cout << "Area: " << area << "\n";
+	cout << "Perimeter: " << perimeter << "\n";
 	
 	return 0;
 }
