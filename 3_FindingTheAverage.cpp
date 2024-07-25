@@ -12,7 +12,7 @@ int main(void){
 	cout << "Enter the second number: ";
 	cin >> num2;
 
-	avg = (num1 + num2) / 2;
+	avg = (num1 + num2) / 2.0;
 
 	cout << "Number: " << avg;
 	
