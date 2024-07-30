@@ -38,7 +38,7 @@ int main(){
 			break;
 		}
 	}
-	
+
 	cout << "\nTotal: " << sum << " Address: " << &sum << "\n";
 	cout << "Largest Number: " << largest << " Address: " << &largest << "\n";
 	cout << "Smallest Number: "<< smallest << " Address: " << &smallest << "\n";
