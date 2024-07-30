@@ -59,7 +59,8 @@ void Animal::Sound(){
 }
 
 class Dog : public Animal{
-	//
+	public:
+		void Run();
 };
 
 int main(){
