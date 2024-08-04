@@ -1,4 +1,3 @@
-```markdown
 # cppExercises
 
 Welcome to the `cppExercises` repository! This repository contains 29 exercises designed to help you practice and master various concepts in C++ programming.
